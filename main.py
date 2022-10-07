@@ -4,11 +4,11 @@
 
 π = 3.14
 
-r = float(input("Cirkelns radie i centimeter:"))
+r = float(input("Cirkelns radie i centimeter:")) #Input för en siffra som sedan beräknas i följande
 
 print()
 
-area = π * r * r
+area = π * r * r 
 
 omkrets = (r + r) * π
 
